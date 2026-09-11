@@ -1,0 +1,7 @@
+[extension]
+id = "base64_tools"
+name = "Base64 Tools"
+version = "0.1.0"
+description = "Base64 Tools extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
